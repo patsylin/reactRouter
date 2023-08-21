@@ -1,4 +1,4 @@
-export default function Blue() {
+export default function Home() {
     return (
       <div className="home">
         <h1>HOME</h1>
